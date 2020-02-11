@@ -37,9 +37,8 @@
         <url>https://github.com/hammock-project/hammock/issues</url>
     </issueManagement>
     <scm>
-        <developerConnection>scm:git:git@github.com:hammock-project/hammock.git</developerConnection>
-        <url>https://github.com/hammock-project/hammock</url>
-        <connection>scm:git:https://github.com/hammock-project/hammock.git</connection>
+        <connection>scm:git:git@github.com:sporting-innovations/hammock.git</connection>
+        <developerConnection>scm:git:git@github.com:sporting-innovations/hammock.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
     <developers>
